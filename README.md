@@ -1,4 +1,4 @@
-# Llama 3 Chatbot
+# Llama_Helper [A ChatBot Assistant.]
 
 Welcome to the Llama 3 Chatbot repository! This project leverages Meta's Llama 3 model to create an intelligent and responsive chatbot designed to assist with day-to-day tasks. Whether you need help managing your schedule, answering queries, or just having a friendly conversation, the Llama 3 Chatbot is here to help.
 
